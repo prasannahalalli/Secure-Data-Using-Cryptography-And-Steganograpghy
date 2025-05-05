@@ -1,4 +1,6 @@
-# Secure-Data-Using-Cryptography-And-Steganograpghy
+ 
+# Title: Secure-Data-Using-Cryptography-And-Steganograpghy
+# Author: Prasanna B Halalli
 
 
 ## Project Overview
